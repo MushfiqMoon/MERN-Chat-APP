@@ -8,6 +8,7 @@ Hosted in Firebase -> [The Motor](https://motor-221b3.web.app/)
 ## MERN Chat APP Key Features
 
 1. Chakra UI as frontend component Library<br />
+2. We are using AXIOS so it can be used intercept HTTP requests and responses and enables client-side protection against XSRF
 2. Google Login<br />
 
 
